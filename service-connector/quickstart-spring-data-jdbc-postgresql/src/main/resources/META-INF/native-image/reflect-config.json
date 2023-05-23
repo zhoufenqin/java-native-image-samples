@@ -1,0 +1,22 @@
+[
+  {
+    "name":"com.zaxxer.hikari.HikariDataSource",
+    "methods":[{"name":"<init>","parameterTypes":[] }],
+    "unsafeAllocated": true
+  },
+  {
+    "name":"org.hibernate.dialect.PostgreSQLDialect",
+    "allDeclaredMethods" : true,
+    "allDeclaredFields" : true,
+    "allDeclaredConstructors" : true,
+    "unsafeAllocated": true
+  },
+  {
+     "name":"com.zaxxer.hikari.util.ConcurrentBag$IConcurrentBagEntry[]",
+     "unsafeAllocated": true
+  },
+  {
+    "name":"java.sql.Statement[]",
+    "unsafeAllocated": true
+  }
+]
